@@ -15,7 +15,7 @@ Il posizionamento è orientato a far risparmiare ai gestori le commissioni delle
 
 ```
 index.html       # landing page completa
-css/style.css    # stile (palette: verde abete / sabbia / corallo, font Fraunces + Outfit)
+css/style.css    # stile (palette: viola / lilla / lime, font Sora + Inter)
 js/main.js       # menu mobile, calcolatore commissioni OTA, reveal on scroll, form contatti
 ```
 
